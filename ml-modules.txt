@@ -1,0 +1,5 @@
+intel-numpy
+intel-scipy
+intel-scikit-learn
+tensorflow
+pandas
